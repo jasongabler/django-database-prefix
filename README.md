@@ -6,7 +6,7 @@ Install using pip
 ```
 pip install django-database-prefix
 ```
-Add `django-database-prefix` at the top of the `INSTALLED_APPS` to make it initialized first.
+Add `django_database_prefix` at the top of the `INSTALLED_APPS` to make it initialized first.
 ```
 'django_database_prefix',
 'django.contrib.admin',
